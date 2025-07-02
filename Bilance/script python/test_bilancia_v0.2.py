@@ -14,8 +14,16 @@ from typing import Optional, Callable, Dict
 from enum import Enum
 
 # Configurazione logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
+
+# !!!chiedere a Lorenzo che tipo di file preferisce per il documento di log!!!
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    filename='ArchiScale.txt',  #nome del file di gioco
+    filemode='a' # 'a' per append. 'w' per sovrascrivere
+)
+logger = logging.getLogger('ArchiScale')
 
 
 class PortType(Enum):
