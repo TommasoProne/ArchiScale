@@ -1,0 +1,53 @@
+# MINEBEA (ex Sartoriuos)
+08.11.2024     17:52
+Ora         17:52:26
+--------------------
+ID1                 
+ID2                 
+ID3                 
+N     +  332.5[5]g  
+G#    +  332.5[5]g  
+T     +    0.0[0]g  
+T2         0.0[0]g  
+nRef  +       20 pcs
+wRef  + 16.62720 g  
+Qnt   +       20 pcs
+--------------------
+--------------------
+08.11.2024     17:52
+Ora         17:52:52
+--------------------
+ID1                 
+ID2                 
+ID3                 
+N     +  332.5[5]g  
+G#    +  332.5[5]g  
+T     +    0.0[0]g  
+T2         0.0[0]g  
+nRef  +       20 pcs
+wRef  + 16.62720 g  
+Qnt   +       20 pcs
+--------------------
+--------------------
+
+# DINI ARGEO (DFW)
+1,ST,     14.06,        0.00,         0,kg
+
+# ITALIANA MACCHI (modello Euro 20L)
+00000,000103,010 100000,000103,010 100000,000103,010 1READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+READ
+ST,GS,    0.20,kg
+1,ST,      0.18,        0.00,         0,kg

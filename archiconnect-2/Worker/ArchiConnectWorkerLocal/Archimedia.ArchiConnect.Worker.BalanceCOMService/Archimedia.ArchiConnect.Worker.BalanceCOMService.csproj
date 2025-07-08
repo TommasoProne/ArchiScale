@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-Archimedia.ArchiConnect.Worker.BalanceService-4c9671d0-832e-46a0-9633-c4c9e92c36c4</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1"/>
+        <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.1" />
+        <PackageReference Include="System.IO.Ports" Version="9.0.6" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Archimedia.ArchiConnect.Worker.Service\Archimedia.ArchiConnect.Worker.Service.csproj" />
+        <ProjectReference Include="..\Archimedia.ArchiConnect.Worker.Balance\Archimedia.ArchiConnect.Worker.Balance.csproj" />
+        <ProjectReference Include="..\src\Archimedia.ArchiConnect.Worker.Balance\Archimedia.ArchiConnect.Worker.Balance.csproj" />
+        <ProjectReference Include="..\src\Archimedia.ArchiConnect.Worker.Service\Archimedia.ArchiConnect.Worker.Service.csproj" />
+        <ProjectReference Include="..\src\Archimedia.ArchiConnect.Worker.Shared\Archimedia.ArchiConnect.Worker.Shared.csproj" />
+    </ItemGroup>
+    
+</Project>

@@ -1,0 +1,39 @@
+01SKD
+01SKD
+01SKD
+01TSTCLR
+01WRYYOGURT BANANA   262,0gr P.P.POLL
+01INP1613I0010
+01SKD
+01SKD
+01SKD
+01TSTCLR
+01WRYTEST TEST TEST  262,0gr P.P.POLL
+01ATS01
+01WRYNr. Macchina                    
+01WBU0                               
+01INP1603I0010
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
+01OIN
+01RBU
+01WRYMacchina nr.  3 BRIK Nr.3       
+01EKB
+01ATS11
+01ATS01
+01WRYCodice Prod. Ean                
+01WBU0                               
+01INP1613I0010
+01SKD
+01SKD
+01SKD
+01SKD
+01SKD
